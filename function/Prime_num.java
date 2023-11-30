@@ -1,3 +1,6 @@
+//Make a function to check if a number is prime or not.
+
+
 package com.function;
 
 import java.util.*;
@@ -16,7 +19,7 @@ public class Prime_num{
 		}else {
 			System.out.println(number + " is  Not a Prime Number");
 		}
-		return;
+		
 	}
 	public static void main(String[] args) {
 		Scanner sc  = new Scanner (System.in);
